@@ -23,6 +23,7 @@ public class LandingActivity extends AppCompatActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		setTitle("BaeBladez");
 		setContentView(R.layout.activity_landing);
 	}
 

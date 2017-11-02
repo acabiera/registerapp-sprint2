@@ -48,4 +48,6 @@
     <string name="intent_extra_product">intent_extra_product</string>
     <string name="title_activity_create_employee">CreateEmployeeActivity</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="welcome_to_baebladez">Welcome to BaeBladez</string>
+    <string name="username">Username</string>
 </resources>
