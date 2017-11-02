@@ -23,7 +23,9 @@ public class LandingActivity extends AppCompatActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setTitle("BaeBladez");
+		//Nate testing
+		//Set the title to BaeBladez, won't show in preview screen - only on phone
+		setTitle("BaeBladez Shopping");
 		setContentView(R.layout.activity_landing);
 	}
 

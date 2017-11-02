@@ -85,6 +85,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
+<<<<<<< HEAD
+=======
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/build-info" />
+>>>>>>> cdd6ea1133c0ffd107c226d39de9ce9d4532f954
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/check-manifest" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/lint" />
@@ -126,6 +130,5 @@
     <orderEntry type="library" scope="TEST" name="javax.annotation:javax.annotation-api:1.2@jar" level="project" />
     <orderEntry type="library" name="com.android.support:transition-26.0.1" level="project" />
     <orderEntry type="library" name="com.android.support:design-26.0.1" level="project" />
-    <orderEntry type="library" name="android-android-26" level="project" />
   </component>
 </module>
