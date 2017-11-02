@@ -34,12 +34,13 @@
 
     <EditText
         android:id="@+id/edit_text_employee_id"
-        android:hint="@string/username"
-        android:inputType="text"
-        android:layout_below="@+id/text_view_please_sign_in"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"/>
+        android:layout_below="@+id/text_view_please_sign_in"
+        android:layout_marginTop="10dp"
+        android:hint="@string/username"
+        android:inputType="text"
+        tools:textColor="@android:color/holo_blue_bright" />
 
     <EditText
         android:id="@+id/edit_text_password"
