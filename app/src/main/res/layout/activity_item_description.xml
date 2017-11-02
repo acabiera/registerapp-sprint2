@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvItemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/item_description_name_title"
+        android:textColor="@android:color/black"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/tvDescTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/item_description_desc_title"
+        android:textColor="@android:color/black"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/tvDescText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="1"
+        android:gravity="center"
+        android:text="@string/item_description_desc_title"
+        android:textColor="@android:color/black"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/tvStockInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/item_description_stock_default"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/tvStockInfo2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:gravity="center"
+        android:text="@string/item_description_active_default"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/btnAddItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_row="6"
+        android:text="@string/item_description_add_to_cart" />
+</GridLayout>

@@ -49,5 +49,10 @@
     <string name="title_activity_create_employee">CreateEmployeeActivity</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="welcome_to_baebladez">Welcome to BaeBladez</string>
+    <string name="item_description_name_title">Item Name</string>
+    <string name="item_description_desc_title">Description</string>
+    <string name="item_description_stock_default">0 in stock</string>
+    <string name="item_description_active_default">more in stock soon</string>
+    <string name="item_description_add_to_cart">ADD TO CART</string>
     <string name="username">Username</string>
 </resources>
