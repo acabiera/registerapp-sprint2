@@ -56,4 +56,7 @@
     <string name="item_description_add_to_cart">ADD TO CART</string>
     <string name="username">Username</string>
     <string name="underground_baebladez">Underground BaeBladez</string>
+    <string name="shop_products">Shop Products</string>
+    <string name="our_cashiers">Our Cashiers</string>
+    <string name="checkout">Checkout</string>
 </resources>
