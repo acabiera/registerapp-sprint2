@@ -51,9 +51,13 @@
     <string name="welcome_to_baebladez">Welcome to BaeBladez</string>
     <string name="item_description_name_title">Item Name</string>
     <string name="item_description_desc_title">Description</string>
-    <string name="item_description_stock_default">0 in stock</string>
-    <string name="item_description_active_default">more in stock soon</string>
+    <string name="item_description_stock_default">0 in stock.</string>
+    <string name="item_description_active_default">More in stock soon.</string>
     <string name="item_description_add_to_cart">ADD TO CART</string>
+    <string name="item_description_price_title">Price:</string>
+    <string name="item_description_price_default">$ 0.00</string>
+    <string name="item_description_quantity_title">Select Quantity:</string>
+    <string name="item_description_quantity_default">0</string>
     <string name="username">Username</string>
     <string name="underground_baebladez">Underground BaeBladez</string>
     <string name="shop_products">Shop Products</string>
